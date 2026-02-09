@@ -34,4 +34,4 @@ I am a developer with a strong foundation in native **Android development**, now
 
 ### **Connect**
 
-* **LinkedIn:** https://www.linkedin.com/in/roshanay-fatima-b4312825b/?skipRedirect=true
+* **LinkedIn:** https://www.linkedin.com/in/roshanay-fatima-b4312825b/
